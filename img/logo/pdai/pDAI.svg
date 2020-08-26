@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="pDAI" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1024px" height="1024px" viewBox="0 0 1024 1024" style="enable-background:new 0 0 1024 1024;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#131123;}
+	.st1{fill:#8888A3;}
+</style>
+<circle id="circle" class="st0" cx="512" cy="512" r="500"/>
+<path id="DAI" class="st1" d="M812,422.7h-62.7c0,0-49.1-167.7-260.5-167.7H284.3v167.7H212v60h70.9v58.6H212v60h70.9V769h205.9
+	c0,0,195,5.5,260.5-167.7H812v-60h-51.8c0,0,2.7-16.4,2.7-30c0-13.6-2.7-30-2.7-30H812V422.7z M344.3,310.9h148.6
+	c124.1,0,175.9,75,195,111.8H344.3V310.9z M494.3,713.1h-150V601.3h343.6C630.6,715.9,494.3,713.1,494.3,713.1z M344.3,541.3v-60
+	h360c1.4,8.2,1.4,19.1,1.4,30c0,10.9,0,20.5-1.4,30H344.3z"/>
+<g id="p">
+	<path class="st1" d="M760,315.1l14.9-60H812l-25.5,60H760z"/>
+</g>
+</svg>

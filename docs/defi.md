@@ -1,0 +1,1 @@
+YAM, decentralized finance’s (DeFi) latest farm-fresh product, has never had a code audit. Yet, that’s not holding back traders from pumping the token’s price from zero to $138 in the 20 or so hours since it launched. The token now is trading hands at $126, according to
