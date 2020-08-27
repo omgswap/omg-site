@@ -4,7 +4,7 @@
 
 ###  [OMGSwap](https://omgswap.com)
 ###  [O-DEX](https://odex.link)
-###  [OMG Market Data] (https://omgswap.link)
+###  [OMG Market Data](https://omgswap.link)
 
 
   
